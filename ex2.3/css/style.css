@@ -1,0 +1,12 @@
+.blue-underlined  {
+    color: blue;
+    text-decoration: underline;
+}
+.red-bold {
+    color: red;
+    font-weight: bold;
+}
+p, .green-italic {
+    color: green;
+    font-style: italic;
+}
